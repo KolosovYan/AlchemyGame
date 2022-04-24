@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f875944780b91074e87f3866ffc231af, type: 3}
+  m_Name: BlackWaterRecipe
+  m_EditorClassIdentifier: 
+  _potionTime: 40
+  FirstStepRecipe: {fileID: 0}
+  PotionPrefab: {fileID: 4537049751758251829, guid: 80575151d7d7eb54fa308288669b5c36,
+    type: 3}
+  CurrentRecipeType: 0
+  Ingredients:
+  - IngredientObject: {fileID: 2100249426835977603, guid: 1827f8652ebb82b42a9fdba4e322a1e5,
+      type: 3}
+    Status: 0
+  - IngredientObject: {fileID: 992694393609167076, guid: 529e4a045df623241ace7c8561ddff96,
+      type: 3}
+    Status: 0
